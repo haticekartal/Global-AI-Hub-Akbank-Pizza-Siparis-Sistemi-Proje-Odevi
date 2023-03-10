@@ -1,0 +1,13 @@
+* Pizza seçiniz:
+1: Klasik Pizza
+2: Margarita Pizza
+3: Turk Pizza
+4: Sade Pizza
+* Sos seçiniz:
+11: Zeytin
+12: Mantar
+13: Keci Peyniri
+14: Et
+15: Sogan
+16: Misir
+*
